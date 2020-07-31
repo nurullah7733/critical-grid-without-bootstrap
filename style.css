@@ -1,0 +1,53 @@
+body{
+	background-color: #ccc;
+}
+img{
+	display:block;
+}
+.banner{
+	margin-bottom: 30px;
+}
+
+.firstcontent{
+	background-color: #aaa;
+	height:100%;
+	text-align:center;
+	padding:10px;
+	text-align:center;
+	text-align:justify;
+}
+.firstcontent h2{
+	text-align:center;
+	margin-bottom: 5px;
+	color:#fff;
+}
+.firstcontent p{ 
+	margin-top: 8px;
+}
+.middlecontent{
+	background-color:#aaa;
+	text-align:justify;
+}
+
+/* For banner text into image */
+
+.hi{
+	position:relative;
+}
+.text_into_img {
+    position: absolute;
+    top: 90px;
+    left: 280px;
+} 
+
+
+
+
+
+
+
+
+
+
+
+
